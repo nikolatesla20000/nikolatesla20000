@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hey, I'm Aviel Reznikovski 👋
 
-<!--
-**nikolatesla20000/nikolatesla20000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full Stack Developer 
 
-Here are some ideas to get you started:
+📍 Israel | 📧 Avielrez14@gmail.com | [LinkedIn](https://linkedin.com/in/aviel-reznikovski-748815300)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Passionate Full Stack Developer with experience in modern frameworks and technological systems management. Recently completed Full Stack Development at Sela College (2023-2024).
+
+### 🛠️ Skills
+- Front-End: React, Angular, HTML5, CSS3, JavaScript
+- Back-End: ASP.NET, Node.js, C#, Python, SQL, NoSQL
+- Cloud: Azure
+- Other: OOP, MVC, Algorithms & Complexity
+
+### 🌐 Languages
+Hebrew (Native), English & Russian (Full Professional)
+
+### 🔍 Seeking
+Full Stack development opportunities and collaborative projects.
+
+Let's connect and create something amazing! 💻✨
+
+
