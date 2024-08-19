@@ -34,12 +34,6 @@
 
 ---
 
-### 🌐 **Languages**
-- Hebrew (Native)
-- English & Russian (Full Professional)
-
----
-
 ### 🔍 **Seeking**
 Full Stack development opportunities and collaborative projects.
 
